@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.boxes{
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.box{
+    width: 90px;
+    height: 90px;
+    border: 2px solid black;
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+}
